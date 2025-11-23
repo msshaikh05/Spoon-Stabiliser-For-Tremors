@@ -1,8 +1,7 @@
-# Spoon-Stabiliser-For-Tremors
-# Spoon Stabilizer for Hand Tremors (Arduino Project)
+# Arduino-Based-Spoon-Stabiliser-For-Tremor-Assistance
 
-This is a mini project I made to experiment with stabilizing a spoon or platform
-using an MPU6050 sensor and two servo motors.  
+This is a mini project we made to experiment with stabilizing a spoon or platform
+using an MPU6050 sensor and two servo motors as our mini project.  
 The idea is simple: the MPU6050 reads the roll and pitch angles, and the servos move in
 the opposite direction to keep the spoon as stable as possible.
 
