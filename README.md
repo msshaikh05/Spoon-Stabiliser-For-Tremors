@@ -63,7 +63,7 @@ All project code is inside the `code/` folder.
 
 ---
 
-##  Getting Started
+## ▶️ Getting Started
 1. Install Arduino IDE  
 2. Add the Servo library (built-in)  
 3. Connect the MPU6050 and servos  
@@ -73,7 +73,7 @@ All project code is inside the `code/` folder.
 
 ---
 
-##  Note
+## ⚠️ Note
 This is just a mini project and not a medical-certified stabilizer.  
 It can assist with tremors, but accuracy depends on servo speed, mounting,  
 and sensor quality.
